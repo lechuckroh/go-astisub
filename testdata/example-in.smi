@@ -1,0 +1,34 @@
+<sami>
+<head>
+<title>Title test</title>
+<style type="text/css">
+<!--
+.krcc { lang:ko-kr; samitype:cc; }
+-->
+</style>
+</head>
+<body>
+<sync start=0><p class=krcc>
+<sync start=><p class=krcc>&nbsp;
+<sync start=0><p class=krcc>
+<br>(deep rumbling)
+<sync start=101004><p class=krcc>&nbsp;
+<sync start=124008><p class=krcc>
+<br>MAN:
+<br>How did we end up here?
+<sync start=127012><p class=krcc>&nbsp;
+<sync start=132016><p class=krcc>
+<br>This place is horrible.
+<sync start=135020><p class=krcc>&nbsp;
+<sync start=140024><p class=krcc>
+<br>Smells like balls.
+<sync start=142028><p class=krcc>&nbsp;
+<sync start=148032><p class=krcc>
+<br>We don't belong
+<br>in this shithole.
+<sync start=151036><p class=krcc>&nbsp;
+<sync start=151040><p class=krcc>
+<br>(computer playing
+<br>electronic melody)
+</body>
+</sami>
